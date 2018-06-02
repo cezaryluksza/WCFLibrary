@@ -1,0 +1,10 @@
+C:\Users\Czaro\source\repos\LibraryAppService\LibraryHost\bin\Debug\LibraryHost.exe.config
+C:\Users\Czaro\source\repos\LibraryAppService\LibraryHost\bin\Debug\LibraryHost.exe
+C:\Users\Czaro\source\repos\LibraryAppService\LibraryHost\bin\Debug\LibraryHost.pdb
+C:\Users\Czaro\source\repos\LibraryAppService\LibraryHost\bin\Debug\LibraryAppService.dll
+C:\Users\Czaro\source\repos\LibraryAppService\LibraryHost\bin\Debug\LibraryAppService.pdb
+C:\Users\Czaro\source\repos\LibraryAppService\LibraryHost\bin\Debug\LibraryAppService.dll.config
+C:\Users\Czaro\source\repos\LibraryAppService\LibraryHost\obj\Debug\LibraryHost.csprojResolveAssemblyReference.cache
+C:\Users\Czaro\source\repos\LibraryAppService\LibraryHost\obj\Debug\LibraryHost.csproj.CoreCompileInputs.cache
+C:\Users\Czaro\source\repos\LibraryAppService\LibraryHost\obj\Debug\LibraryHost.exe
+C:\Users\Czaro\source\repos\LibraryAppService\LibraryHost\obj\Debug\LibraryHost.pdb

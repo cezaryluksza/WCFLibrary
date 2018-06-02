@@ -1,0 +1,7 @@
+c:\users\czaro\source\repos\LibraryAppService\LibraryAppService\bin\Debug\LibraryAppService.dll.config
+c:\users\czaro\source\repos\LibraryAppService\LibraryAppService\bin\Debug\LibraryAppService.dll
+c:\users\czaro\source\repos\LibraryAppService\LibraryAppService\bin\Debug\LibraryAppService.pdb
+c:\users\czaro\source\repos\LibraryAppService\LibraryAppService\obj\Debug\LibraryAppService.csprojResolveAssemblyReference.cache
+c:\users\czaro\source\repos\LibraryAppService\LibraryAppService\obj\Debug\LibraryAppService.csproj.CoreCompileInputs.cache
+c:\users\czaro\source\repos\LibraryAppService\LibraryAppService\obj\Debug\LibraryAppService.dll
+c:\users\czaro\source\repos\LibraryAppService\LibraryAppService\obj\Debug\LibraryAppService.pdb
